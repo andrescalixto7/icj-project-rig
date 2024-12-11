@@ -20,7 +20,7 @@
     {
       "template": "bake-bibles",
       "data": "bible",
-      "array": "Bible Characters",
+      "array": "Biblecharacters",
       "slug": "slug",
       "path": "bible"
     }

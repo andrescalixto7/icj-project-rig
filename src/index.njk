@@ -11,7 +11,7 @@
   <h2>Library books loop</h2>
   <p>This loops through data that came from a Google Docs example.</p>
   <div class="row">
-    {% for bibles in bible.Bible Characters %}
+    {% for bibles in bible.Biblecharacters %}
       <div class="col">
         <img src="img/{{ bibles.image }}" alt="Photo of {{ bibles.Name }}" class="img-fluid">
         <h3><a href="bible/{{ bibles.slug }}.html">{{ bibles.Name }}</a></h3>
