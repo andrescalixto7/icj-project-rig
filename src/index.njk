@@ -12,7 +12,7 @@
   <p>Below are three of the most noteworthy people in the history of Christianity.</p>
   <div class="row">
     {% for bibles in bible.Biblecharacters %}
-      <div class="col">
+      <div class="col-sm-4">
         <img src="img/{{ bibles.image }}" alt="Photo of {{ bibles.Name }}" class="img-fluid">
         <h3><a href="bible/{{ bibles.slug }}.html">{{ bibles.Name }}</a></h3>
       </div>
