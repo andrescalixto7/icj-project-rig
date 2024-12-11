@@ -9,15 +9,20 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "117oDnJLzhpJz2c_yBzPHBzdKjk4xlkoeVqyptORh_dk", 
+      "name": "bible", 
+      "type": "sheet"
     }
   ],
-  "to_bake": [
+  "to_bake": [ 
     {
-      "template": "bake-book",
-      "data": "library",
-      "array": "books",
+      "template": "bake-bibles",
+      "data": "bible",
+      "array": "Bible Characters",
       "slug": "slug",
-      "path": "books"
+      "path": "Bible Characters"
     }
   ]
 }

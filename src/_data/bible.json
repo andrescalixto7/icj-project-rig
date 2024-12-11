@@ -1,0 +1,22 @@
+{
+  "Bible Characters": [
+    {
+      "Name": "Jesus",
+      "Role": "Son of God",
+      "slug": "jesus",
+      "image": "jesus.jpg"
+    },
+    {
+      "Name": "Mary",
+      "Role": "Mother of Jesus",
+      "slug": "mother-mary",
+      "image": "mary.jpg"
+    },
+    {
+      "Name": "Paul",
+      "Role": "Apostle of Jesus",
+      "slug": "apostle-paul",
+      "image": "paul.jpg"
+    }
+  ]
+}
