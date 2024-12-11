@@ -4,19 +4,22 @@
       "Name": "Jesus",
       "Role": "Son of God",
       "slug": "jesus",
-      "image": "jesus.jpg"
+      "image": "jesus.jpg",
+      "bio": "Jesus Christ is the central figure of Christianity, believed to be the Son of God and God in the flesh. Born in Bethlehem, he lived a sinless life and began his ministry around age 30, teaching about repentance, faith, and God’s kingdom. He performed miracles, healed the sick, and shared profound teachings through parables. Jesus was crucified under Pontius Pilate, a death Christians believe was a sacrifice for humanity’s sins, and rose from the dead three days later. His resurrection is seen as the foundation of Christian faith, and he is worshiped as Savior and Lord by billions worldwide today. "
     },
     {
       "Name": "Mary",
       "Role": "Mother of Jesus",
       "slug": "mother-mary",
-      "image": "mary.jpg"
+      "image": "mary.jpg",
+      "bio": "Mary, the mother of Jesus Christ, is another key figure in Christianity known for her faith and humility. A young Jewish woman from Nazareth, she was chosen by God to conceive Jesus through the Holy Spirit, fulfilling prophecies of the Messiah’s birth. Mary remained a faithful presence throughout Jesus’ life, from His birth in Bethlehem to His crucifixion. She is honored in Christian tradition as a model of obedience and trust in God. "
     },
     {
       "Name": "Paul",
       "Role": "Apostle of Jesus",
       "slug": "apostle-paul",
-      "image": "paul.jpg"
+      "image": "paul.jpg",
+      "bio": "Paul the Apostle, formerly Saul of Tarsus, was a Pharisee who became a key figure in Christianity after a dramatic encounter with the risen Jesus on the road to Damascus. Once a persecutor of Christians, he dedicated his life to spreading the gospel and establishing churches across the Roman Empire. Paul wrote many letters that form much of the New Testament, emphasizing salvation by grace through faith. He was martyred in Rome and is remembered as a missionary, theologian, and pillar of the early Church."
     }
   ]
 }
